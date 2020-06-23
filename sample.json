@@ -21,11 +21,11 @@
     "url": "https://www.apple.com"
   },
   {
-    "name":"Mark Zuckerberg",
+    "name":"ggHack demo",
     "address":"Facebook",
     "contact" : "12345678",
-    "photo": "https://timedotcom.files.wordpress.com/2018/01/mark-zuckerberg-new-years-resolution-facebook.jpg",
-    "url": "https://www.facebook.com"
+    "photo": "https://raw.githubusercontent.com/ktxlh/frontend-api-json-host/master/fried_chicken.jpg",
+    "url": "https://github.com/cidneyho/ggHack-frontend"
   },
   {
     "name":"Sundar Pichai",
